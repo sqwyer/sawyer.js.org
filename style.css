@@ -29,7 +29,8 @@ h1 {
 }
 
 p {
-  font-size:180%;
+  font-size:150%;
+  margin-bottom:2%;
 }
 
 a {
@@ -41,7 +42,7 @@ a {
   font-size:110%;
   transition: 0.17s ease;
   height:3vh;
-  width:30vw;
+  width:20vw;
 }
 
 a:hover {
@@ -57,5 +58,9 @@ a img {
   .centered {
     width:90vw;
     font-size:90%;
+  }
+
+  a {
+    width:50vw;
   }
 }
