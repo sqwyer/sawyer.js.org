@@ -44,6 +44,7 @@ a {
   height:3vh;
   width:20vw;
   align-items: center;
+  text-align: center;
 }
 
 a:hover {
