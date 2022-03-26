@@ -36,13 +36,14 @@ p {
 a {
   color: #2D251C;
   margin-top: 2%;
-  display: inline-block;
+  display: inline-flex;
   font-weight: bold;
   text-decoration: none;
   font-size:110%;
   transition: 0.17s ease;
   height:3vh;
   width:20vw;
+  align-items: center;
 }
 
 a:hover {
