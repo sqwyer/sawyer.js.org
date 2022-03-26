@@ -45,6 +45,7 @@ a {
   width:20vw;
   align-items: center;
   text-align: center;
+  justify-content: center;
 }
 
 a:hover {
